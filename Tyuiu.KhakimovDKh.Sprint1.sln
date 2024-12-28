@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhakimovDKh.Sprint1.T
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{0EF67D8A-CC6B-413E-BA15-54C2629AF087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhakimovDKh.Sprint1.Task2.", "Tyuiu.KhakimovDKh.Sprint1.Task2\Tyuiu.KhakimovDKh.Sprint1.Task2..csproj", "{C1EDCC3D-82B8-4471-AEB3-CEB9E6AE3CE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhakimovDKh.Sprint1.Task2.V22", "Tyuiu.KhakimovDKh.Sprint1.Task2\Tyuiu.KhakimovDKh.Sprint1.Task2.V22.csproj", "{C1EDCC3D-82B8-4471-AEB3-CEB9E6AE3CE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib", "Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib\Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib.csproj", "{F6878967-6361-4BEF-B4F3-7078E0E8C9EC}"
 EndProject
