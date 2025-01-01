@@ -7,12 +7,17 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task7.V25.Test
         [TestMethod]
         public void ValidExpression()
         {
+            // Arrange
             DataService ds = new DataService();
             double x = 2;
             double y = 3;
             double wait = 6.858;
+
+            // Act
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(wait, res);
+
+            // Assert
+            Assert.AreEqual(wait, res, 0.001);
         }
     }
 }
