@@ -10,7 +10,7 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task7.V25.Test
             // Arrange
             DataService ds = new DataService();
             double x = 2;
-            double y = 3;
+            double y = 3.99;
             double wait = 6.858;
 
             // Act
