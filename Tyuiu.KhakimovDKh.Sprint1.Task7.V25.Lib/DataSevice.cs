@@ -9,5 +9,6 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task7.V25.Lib
             return res;
 
         }
+
     }
 }

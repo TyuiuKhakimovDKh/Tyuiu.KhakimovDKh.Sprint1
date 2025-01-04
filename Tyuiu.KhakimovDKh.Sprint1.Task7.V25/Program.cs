@@ -29,7 +29,7 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task7.V25
             Console.WriteLine("Введите x : ");
             double x = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите y : ");
-            double y = Convert.ToDouble(Console.ReadLine());
+          double y = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
