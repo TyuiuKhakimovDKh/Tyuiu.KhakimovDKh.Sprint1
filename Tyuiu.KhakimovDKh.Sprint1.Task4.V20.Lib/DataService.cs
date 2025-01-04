@@ -9,6 +9,6 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task4.V20.Lib
         {
             double denominator = Math.Abs(x - Math.Sqrt(2) + y);
             return (1 + x) / denominator;
-        }
+        }  
     }
 }
