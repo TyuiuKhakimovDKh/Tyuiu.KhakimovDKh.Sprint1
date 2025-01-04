@@ -7,13 +7,13 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task7.V25
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #1 | Выполнил: Меньшиков Е. А. | ИИПб-23-1";
+            Console.Title = "Спринт #1 | Выполнил: Хакимов Д.Х | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #25                                                             *");
-            Console.WriteLine("* Выполнил: Меньшиков Егор Александрович | ИИПб-23-1                      *");
+            Console.WriteLine("* Выполнил: Хакимов Достонбек Хисравович | ИИПб-24-2                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя переменные и     *");
