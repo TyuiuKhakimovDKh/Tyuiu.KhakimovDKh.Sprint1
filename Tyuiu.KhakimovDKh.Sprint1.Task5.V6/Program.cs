@@ -24,7 +24,7 @@ public class Program
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                         ");
         Console.WriteLine("***************************************************************************");
         int x;
-        Console.WriteLine("* Введите день:                                                 ");
+        Console.WriteLine("* Введите день:                                                           ");
         x = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                               ");
