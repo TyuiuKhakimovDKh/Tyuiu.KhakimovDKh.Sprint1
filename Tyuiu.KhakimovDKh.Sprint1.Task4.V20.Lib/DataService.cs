@@ -1,4 +1,6 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint1;
+﻿
+
+using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.KhakimovDKh.Sprint1.Task4.V20.Lib
 {
     public class DataService : ISprint1Task4V20
