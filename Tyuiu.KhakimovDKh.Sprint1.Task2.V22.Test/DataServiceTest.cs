@@ -1,17 +1,17 @@
 ﻿using Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib;namespace Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Test
 {
     [TestClass]
-    public class DataServiceTest
+    public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestCalculateSideSquareParallelepiped()
+        public void ValidExpression()
         {
             DataService ds = new DataService();
-            int value = 2;
-            int valueTwo = 2;
-            int valueThree = 2;
-            var res = ds.CalculateAVGValue(value, valueTwo, valueThree);
-            Assert.AreEqual(2, res);
+            int x = 2;
+            int y = 3;
+            int z = 4;
+            var res = ds.CalculateAVGValue(x, y, z);
+            Assert.AreEqual(3, res);
         }
     }
 }
