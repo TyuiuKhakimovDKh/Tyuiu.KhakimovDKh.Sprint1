@@ -1,4 +1,5 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint1;
+﻿
+using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.KhakimovDKh.Sprint1.Task0.V2.Lib
 {
     public class DataService : ISprint1Task0V2
@@ -9,7 +10,3 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task0.V2.Lib
         }
     }
 }
-
-
-
-
