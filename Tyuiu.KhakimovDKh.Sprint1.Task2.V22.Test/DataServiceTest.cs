@@ -1,5 +1,7 @@
-﻿using Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib;namespace Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Test
+﻿using Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib;
+namespace Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Test
 {
+    
     [TestClass]
     public sealed class DataServiceTest
     {
@@ -15,5 +17,3 @@
         }
     }
 }
-
-

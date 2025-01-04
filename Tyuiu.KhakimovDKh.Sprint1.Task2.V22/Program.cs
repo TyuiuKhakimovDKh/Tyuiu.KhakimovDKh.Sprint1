@@ -1,6 +1,7 @@
-﻿using Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib;
-namespace Tyuiu.KhakimovDKh.Sprint1.Task2_;
-    internal class Program
+﻿
+
+using Tyuiu.KhakimovDKh.Sprint1.Task2.V22.Lib;
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -11,7 +12,7 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task2_;
         Console.WriteLine("* Тема: Базовые навыки работы в С#                                        *");
         Console.WriteLine("* Задание #2                                                              *");
         Console.WriteLine("* Вариант #22                                                             *");
-        Console.WriteLine("* Выполнил:  Хакимов Достонбек Хисравович| ИИПб-24-2                      *");
+        Console.WriteLine("* Выполнила:Хакимов Достонбек Хисравович | ИИПб-24-2                      *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
         Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");

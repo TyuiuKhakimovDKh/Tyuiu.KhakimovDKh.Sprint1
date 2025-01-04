@@ -7,7 +7,7 @@ namespace Tyuiu.KhakimovDKh.Sprint1.Task1.V7
        
         
        
-        // Статический метод Main — точка входа в программу
+        
         public static void Main(string[] args)
         {
 
